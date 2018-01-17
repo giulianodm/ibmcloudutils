@@ -4,7 +4,7 @@
 #author		 :Giuliano Morais
 #date            :20180117
 #version         :0.1    
-#usage		 :bash findService.sh
+#usage		 :bash findService.sh YOUR_CF_ORG SERVICE-STRING-TO-FIND
 #notes           :Install IBM bx cli tool as a pre-req
 #==============================================================================
 
